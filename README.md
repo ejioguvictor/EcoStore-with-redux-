@@ -1,3 +1,7 @@
+## Eco-Store
+
+A simple E-commerce app scaled up with Redux for managing its states across the different components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
